@@ -1,6 +1,6 @@
 # ward8votes.org: site files
 
-A static three-page site. Every page shares the same header (Home, Run, About ANCs), an "on this page" menu, and "Back to top" links at the end of each section. No build step, no database. Upload the whole folder to Netlify (or any static host).
+A static three-page site. Every page shares the same header (Home, Run, About ANCs), an "on this page" menu, and "Back to top" links at the end of each section. No build step, no database.
 
 ## What's in the folder
 
@@ -15,15 +15,6 @@ A static three-page site. Every page shares the same header (Home, Run, About AN
 | `styles.css` | All styling, including the print layout | No |
 | `photos/` | Candidate photos | Add photos here |
 | `qr-ward8votes.png` | QR code that opens https://ward8votes.org, for flyers | No |
-
-## Before launch: fill in the placeholders
-
-Search each HTML file for `[` and replace every placeholder:
-
-- `index.html`: `[Describe the boundaries here...]`, `[YOUR NAME]`, `[EMAIL]` (appears twice), `[DAY]` in the "Last updated" line
-- `declare.html`: `[YOUR-FORM-ID]` (appears twice), `[EMAIL]`, `[PHONE]`
-
-Each spot has an `<!-- EDIT: ... -->` comment just above it.
 
 ## Adding a candidate
 
