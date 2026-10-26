@@ -38,7 +38,7 @@ const QUESTIONS = [
   };
 
   list.innerHTML = '<div class="candidate-list">' + people.map((c) => `
-    <article class="candidate" aria-label="${esc(c.name)}">
+    <article class="candidate${c.removed ? " is-removed" : ""}" aria-label="${esc(c.name)}">
       ${c.photo ? `<img src="${esc(c.photo)}" alt="Photo of ${esc(c.name)}" width="96" height="96" loading="lazy">` : ""}
       <h3>${esc(c.name)}</h3>
       <p class="write-as">Write in: <b>${esc(c.name)}</b></p>
@@ -53,7 +53,7 @@ const QUESTIONS = [
       <div class="answers">
         ${people.map((c) => {
           const a = Array.isArray(c.answers) ? String(c.answers[i] || "").trim() : "";
-          return `<div class="answer"><span class="who">${esc(c.name)}</span><p>${a ? esc(a) : "<em>No answer given.</em>"}</p></div>`;
+          return `<div class="answer${c.removed ? " is-removed" : ""}"><span class="who">${esc(c.name)}</span><p>${a ? esc(a) : "<em>No answer given.</em>"}</p></div>`;
         }).join("")}
       </div>
     </details>`).join("");
