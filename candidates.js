@@ -62,17 +62,17 @@ const CANDIDATES = [
     name: `Marquita Foster`,
     sortName: `Foster`,
     photo: "",
-    bio: `This candidate has requested they be removed. They are still listed as a write-in candidate according to the DC BOE.`,
+    bio: `This candidate has requested they be removed from this site. Their responses have been removed at their request, but they are still a write-in candidate according to the Board of Elections.`,
     contact: `N/A`,
     affirmation: "filed",
     answers: [
-      `This candidate has requested they be removed.`,  // 1. Top priority for the two-year term
-      `This candidate has requested they be removed.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
-      `This candidate has requested they be removed.`,  // 3. Escalating an unaddressed 311 request
-      `This candidate has requested they be removed.`,  // 4. Community Benefits Agreement for the former UMC site
-      `This candidate has requested they be removed.`,  // 5. Traffic safety on Southern Avenue
-      `This candidate has requested they be removed.`,  // 6. Neighbor about to lose housing, can't pay for groceries or utilities
-      `This candidate has requested they be removed.`,  // 7. Proposed $1,000 community project
+      `This candidate's responses have been removed at their request.`,  // 1. Top priority for the two-year term
+      `This candidate's responses have been removed at their request.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
+      `This candidate's responses have been removed at their request.`,  // 3. Escalating an unaddressed 311 request
+      `This candidate's responses have been removed at their request.`,  // 4. Community Benefits Agreement for the former UMC site
+      `This candidate's responses have been removed at their request`,  // 5. Traffic safety on Southern Avenue
+      `This candidate's responses have been removed at their request`,  // 6. Neighbor about to lose housing, can't pay for groceries or utilities
+      `This candidate's responses have been removed at their request`,  // 7. Proposed $1,000 community project
     ],
   },
   
