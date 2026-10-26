@@ -63,7 +63,7 @@ const CANDIDATES = [
     name: `Marquita Foster`,
     sortName: `Foster`,
     photo: "",
-    bio: `This candidate has requested they be removed from this site. Their responses have been removed at their request, but they are still a write-in candidate according to the Board of Elections.`,
+    bio: `This candidate has requested they be removed from this site. Their responses have been removed to fulfill this request, but they are still a write-in candidate according to the Board of Elections.`,
     contact: `N/A`,
     affirmation: "filed",
     removed: true,
