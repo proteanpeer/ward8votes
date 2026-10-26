@@ -58,24 +58,6 @@ const CANDIDATES = [
       `I’d fund a kind of “Street Steward” pilot program (perhaps with Ward 8 Woods) and pay a resident to pick up trash in their neighborhood every month. At a wage of ~$20/hr, $1000 could cover 24 cleanups--enough for a year-long pilot in *two* neighborhoods in our SMD, and success could build support for a permanent program. More than clean streets, though, this is about supporting people getting out in their neighborhood to work together and solve problems. That's how we strengthen our community.`,  // 7. Proposed $1,000 community project
     ],
   },
-  
-  {
-    name: `Marquita Foster`,
-    sortName: `Foster`,
-    photo: "",
-    bio: `This candidate has requested they be removed from this site. Their responses have been removed to fulfill this request, but they are still a write-in candidate according to the Board of Elections.`,
-    contact: `N/A`,
-    affirmation: "filed",
-    removed: true,
-    answers: [
-      `This candidate's responses have been removed at their request.`,  // 1. Top priority for the two-year term
-      `This candidate's responses have been removed at their request.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
-      `This candidate's responses have been removed at their request.`,  // 3. Escalating an unaddressed 311 request
-      `This candidate's responses have been removed at their request.`,  // 4. Community Benefits Agreement for the former UMC site
-      `This candidate's responses have been removed at their request`,  // 5. Traffic safety on Southern Avenue
-      `This candidate's responses have been removed at their request`,  // 6. Neighbor about to lose housing, can't pay for groceries or utilities
-      `This candidate's responses have been removed at their request`,  // 7. Proposed $1,000 community project
-    ],
   },
   
 ];
