@@ -12,8 +12,9 @@
     - If an answer itself contains a backtick (rare), replace it with an apostrophe.
     - Leave photo as "" if there's no photo. Otherwise put the image in the photos/ folder
       and write its file name, e.g. "photos/jane-doe.jpg".
-    - affirmation: "filed" once you've confirmed with the Board of Elections, otherwise "pending".
     - sortName: the last name, used for alphabetical order.
+    - affirmation: "filed" once you've confirmed with the Board of Elections, otherwise "pending".
+    - removed: true greys out a candidate who asked to have their listing removed but it.
 
   The page sorts candidates alphabetically and shows "No one has declared yet" when this list is empty.
 */
@@ -65,6 +66,7 @@ const CANDIDATES = [
     bio: `This candidate has requested they be removed from this site. Their responses have been removed at their request, but they are still a write-in candidate according to the Board of Elections.`,
     contact: `N/A`,
     affirmation: "filed",
+    removed: true,
     answers: [
       `This candidate's responses have been removed at their request.`,  // 1. Top priority for the two-year term
       `This candidate's responses have been removed at their request.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
