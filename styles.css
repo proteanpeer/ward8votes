@@ -341,6 +341,25 @@ li::marker { color: var(--green); font-weight: 700; }
 .candidate .bio { font-size: 1rem; }
 .candidate .contact { font-size: 0.95rem; margin: 0; overflow-wrap: anywhere; }
 
+/* A candidate who asked to have their listing removed but is still running:
+   quieter paper-toned box and muted text that still meets contrast guidelines. */
+.candidate.is-removed {
+  background: #eef1ee;
+  border-color: var(--rule);
+  border-top-color: var(--rule);
+  color: #5f6b65;
+}
+.candidate.is-removed h3,
+.candidate.is-removed .write-as,
+.candidate.is-removed .write-as b,
+.candidate.is-removed .bio,
+.candidate.is-removed .contact { color: #5f6b65; }
+.candidate.is-removed .bio { font-style: italic; }
+.candidate.is-removed .status { background: var(--rule); color: #3f4a44; }
+.compare .answer.is-removed .who,
+.compare .answer.is-removed p { color: #5f6b65; }
+.compare .answer.is-removed p { font-style: italic; }
+
 .empty-state {
   background: var(--surface);
   border: 2px dashed var(--rule);
