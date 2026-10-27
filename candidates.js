@@ -46,8 +46,8 @@ const CANDIDATES = [
     sortName: `Earle`,
     photo: "",
     bio: `I have lived here in Ward 8 for nearly 12 years, and I have 12+ years of experience in community organizing and communications. I have worked with folks from all kinds of backgrounds and perspectives--including our ANCs--and I find great joy in bringing people together to talk about important issues. I'm friendly, I’m honest, and I like to solve problems with my neighbors, who insisted I run for this seat. I'm also a husband to a wonderful wife and a dad to a beautiful baby, plus a dog and cat.`,
-    contact: `jamesearle.net/contact`,
-    affirmation: "pending",
+    contact: `<a href="https://www.jamesearle.net/">jamesearle.net</href>`,
+    affirmation: "confirmed",
     answers: [
       `My top priority would be to document and share everything about the work and responsibilities of an ANC so that our community better understands what the job is like and how they can more effectively engage with their most local level of government. Every two years, either nobody runs or one person runs unopposed. If I can help demystify what's going on in our ANC, I think it will get easier for more of us to participate in--and lead--this kind of work in our neighborhoods.`,  // 1. Top priority for the two-year term
       `Our SMD has ~400 single-family homes and a few medium-sized apartment buildings; I will regularly visit every single one of them throughout the year. In my experience, there's no substitute for knocking on doors and making personal connections with neighbors. And once you meet a few people, it's easier to build trust, connect with more neighbors, and get more done. Hitting the streets and talking to each other in person is just fundamental to seeing problems and organizing around solutions.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
