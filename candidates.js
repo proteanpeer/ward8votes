@@ -59,4 +59,4 @@ const CANDIDATES = [
     ],
   },
 
-  ]
+];
