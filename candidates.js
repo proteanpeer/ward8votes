@@ -61,7 +61,7 @@ const CANDIDATES = [
     ],
   },
 
-   {
+  {
     name: `Marquita Foster`,
     sortName: `Foster`,
     photo: "",
@@ -79,3 +79,5 @@ const CANDIDATES = [
       `Info removed at candidate's request.`,  // 7. Proposed $1,000 community project
     ],
   },
+  
+]
