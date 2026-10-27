@@ -46,7 +46,7 @@ const CANDIDATES = [
     sortName: `Earle`,
     photo: "",
     bio: `I have lived here in Ward 8 for nearly 12 years, and I have 12+ years of experience in community organizing and communications. I have worked with folks from all kinds of backgrounds and perspectives--including our ANCs--and I find great joy in bringing people together to talk about important issues. I'm friendly, I’m honest, and I like to solve problems with my neighbors, who insisted I run for this seat. I'm also a husband to a wonderful wife and a dad to a beautiful baby, plus a dog and cat.`,
-    contact: `<a href="https://www.jamesearle.net/">jamesearle.net</href>`,
+    contact: `<a href="https://www.jamesearle.net/">jamesearle.net</a>`,
     affirmation: "confirmed",
     answers: [
       `My top priority would be to document and share everything about the work and responsibilities of an ANC so that our community better understands what the job is like and how they can more effectively engage with their most local level of government. Every two years, either nobody runs or one person runs unopposed. If I can help demystify what's going on in our ANC, I think it will get easier for more of us to participate in--and lead--this kind of work in our neighborhoods.`,  // 1. Top priority for the two-year term
