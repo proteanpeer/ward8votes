@@ -58,3 +58,5 @@ const CANDIDATES = [
       `I’d fund a kind of “Street Steward” pilot program (perhaps with Ward 8 Woods) and pay a resident to pick up trash in their neighborhood every month. At a wage of ~$20/hr, $1000 could cover 24 cleanups--enough for a year-long pilot in *two* neighborhoods in our SMD, and success could build support for a permanent program. More than clean streets, though, this is about supporting people getting out in their neighborhood to work together and solve problems. That's how we strengthen our community.`,  // 7. Proposed $1,000 community project
     ],
   },
+
+  ]
