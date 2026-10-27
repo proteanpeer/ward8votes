@@ -47,8 +47,8 @@ const CANDIDATES = [
     sortName: `Earle`,
     photo: "",
     bio: `I have lived here in Ward 8 for nearly 12 years, and I have 12+ years of experience in community organizing and communications. I have worked with folks from all kinds of backgrounds and perspectives--including our ANCs--and I find great joy in bringing people together to talk about important issues. I'm friendly, I’m honest, and I like to solve problems with my neighbors, who insisted I run for this seat. I'm also a husband to a wonderful wife and a dad to a beautiful baby, plus a dog and cat.`,
-    contact: `a href="https://www.jamesearle.net/">jamesearle.net</a>`,
-    affirmation: "confirmed",
+    contact: `jamesearle.net`,
+    affirmation: "filed",
     removed: false,
     answers: [
       `My top priority would be to document and share everything about the work and responsibilities of an ANC so that our community better understands what the job is like and how they can more effectively engage with their most local level of government. Every two years, either nobody runs or one person runs unopposed. If I can help demystify what's going on in our ANC, I think it will get easier for more of us to participate in--and lead--this kind of work in our neighborhoods.`,  // 1. Top priority for the two-year term
@@ -65,18 +65,18 @@ const CANDIDATES = [
     name: `Marquita Foster`,
     sortName: `Foster`,
     photo: "",
-    bio: `Info removed at candidate's request. They are still listed as a candidate according to the Board of Elections.`,
+    bio: `Removed at candidate's request. They are still listed as a write-in candidate according to the Board of Elections.`,
     contact: `N/A`,
-    affirmation: "confirmed",
+    affirmation: "filed",
     removed: true,
     answers: [
-      `Info removed at candidate's request.`,  // 1. Top priority for the two-year term
-      `Info removed at candidate's request.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
-      `Info removed at candidate's request.`,  // 3. Escalating an unaddressed 311 request
-      `Info removed at candidate's request.`,  // 4. Community Benefits Agreement for the former UMC site
-      `Info removed at candidate's request.`,  // 5. Traffic safety on Southern Avenue
-      `Info removed at candidate's request.`,  // 6. Neighbor about to lose housing, can't pay for groceries or utilities
-      `Info removed at candidate's request.`,  // 7. Proposed $1,000 community project
+      `Removed at candidate's request.`,  // 1. Top priority for the two-year term
+      `Removed at candidate's request.`,  // 2. Reaching neighbors who aren't online or don't come to meetings
+      `Removed at candidate's request.`,  // 3. Escalating an unaddressed 311 request
+      `Removed at candidate's request.`,  // 4. Community Benefits Agreement for the former UMC site
+      `Removed at candidate's request.`,  // 5. Traffic safety on Southern Avenue
+      `Removed at candidate's request.`,  // 6. Neighbor about to lose housing, can't pay for groceries or utilities
+      `Removed at candidate's request.`,  // 7. Proposed $1,000 community project
     ],
   },
   
